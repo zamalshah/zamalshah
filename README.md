@@ -5,7 +5,7 @@
 <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&amp;logo=mongodb&amp;logoColor=white" alt="MongoDB">
 <img src="https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&amp;logo=npm&amp;logoColor=white" alt="NPM"></p>
 <h1 id="-github-stats">📊 GitHub Stats:</h1>
-<p><img src="https://github-readme-stats.vercel.app/api?username=Aneal07&amp;theme=dark&amp;hide_border=false&amp;include_all_commits=false&amp;count_private=false" alt=""><br>
+<p><img src="https://github-readme-stats.vercel.app/api?username=zamalshah&amp;theme=dark&amp;hide_border=false&amp;include_all_commits=false&amp;count_private=false" alt=""><br>
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=Aneal07&amp;theme=dark&amp;hide_border=false" alt=""><br>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aneal07&amp;theme=dark&amp;hide_border=false&amp;include_all_commits=false&amp;count_private=false&amp;layout=compact" alt=""></p>
 <h2 id="-github-trophies">🏆 GitHub Trophies</h2>
